@@ -40,7 +40,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 
 
-project 2:
+project 2:  ( Diabetes Health Project)
 
 📌 Logistic Regression Machine Learning Project
 📖 Project Overview
